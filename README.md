@@ -30,4 +30,4 @@ Company names in project files: Direct Communications. NetAPI helpers from Micro
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
